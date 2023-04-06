@@ -1,7 +1,7 @@
 # Random strings generator
 Generate an array of random strings
 
-**1-10 characters (fixed length), a-Z, mix, 50 strings**
+**1-10 characters (fixed length), a-Z, mix, 50 strings**<br>
 ``` generateData() ```
 
 [<br>
@@ -17,7 +17,7 @@ Generate an array of random strings
   'ohoiE', 'NoWCM', 'vaTft', 'MSfNM', 'VhkGi'<br>
 ]
 
-**1-10 characters (dynamic length), a-Z, mix, 50 strings**
+**1-10 characters (dynamic length), a-Z, mix, 50 strings**<br>
 ``` generateData(0) ```
 
 [<br>
@@ -36,7 +36,7 @@ Generate an array of random strings
   'ISKWJ',    'dS'<br>
 ]
 
-**5 characters, a-Z, mix, 50 strings**
+**5 characters, a-Z, mix, 50 strings**<br>
 ``` generateData(5); ``` 
 
 [<br>
@@ -52,7 +52,7 @@ Generate an array of random strings
   'vMFKf', 'YZOvu', 'oVVtc', 'elQeK', 'fDBFS'<br>
 ]
 
-**5 characters, numbers, mix, 50 strings**
+**5 characters, numbers, mix, 50 strings**<br>
 ``` generateData(5, 2); ``` 
 
 [<br>
@@ -68,7 +68,7 @@ Generate an array of random strings
   '49247', '58923', '74012', '21184', '33157'<br>
 ]
 
-**5 characters, a-Z0-9, mix, 50 strings**
+**5 characters, a-Z0-9, mix, 50 strings**<br>
 ``` generateData(5, 3); ``` 
 
 [<br>
@@ -84,7 +84,7 @@ Generate an array of random strings
   '8ZyNu', '4Twmw', '0l517', 'Pekzt', 'uUlFB'<br>
 ]
 
-**5 characters, a-Z0-9, mix, 50 strings**
+**5 characters, a-Z0-9, mix, 50 strings**<br>
 ``` generateData(5, 3, 0); ``` 
 
 [<br>
@@ -100,7 +100,7 @@ Generate an array of random strings
   '946M7', 'd3oct', '2isG0', 'RXzo3', 'e676P'<br>
 ]
 
-**5 characters, a-Z0-9, lowercase, 50 strings**
+**5 characters, a-Z0-9, lowercase, 50 strings**<br>
 ``` generateData(5, 3, 1); ``` 
 
 [<br>
@@ -116,7 +116,7 @@ Generate an array of random strings
   'lahw2', '7juhr', 'f1dvf', 'ena0h', '3r3kv'<br>
 ]<br>
 
-**5 characters, a-Z0-9, uppercase, 50 strings**
+**5 characters, a-Z0-9, uppercase, 50 strings**<br>
 ``` generateData(5, 3, 2); ``` 
 
 [<br>
@@ -132,7 +132,7 @@ Generate an array of random strings
   '2JUE0', '8M58J', 'JZ0DW', 'OOSWU', 'OOCK6'<br>
 ]
 
-**20 characters, a-Z0-9, uppercase, 10 strings**
+**20 characters, a-Z0-9, uppercase, 10 strings**<br>
 ``` generateData(20, 3, 2, 10); ``` 
 
 [<br>
